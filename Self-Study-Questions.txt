@@ -1,0 +1,18 @@
+If you were to describe semantic HTML to the next cohort of students, what would you say?
+
+Code that gives your HTML meaning.
+
+Name two big differences between display: block; and display: inline;.
+
+display inline turns an element into an inline which gives the element only the space it takes up. Blcok turns the element takes up the whole website.
+
+What are the 4 areas of the box model?
+
+Content, padding, border, margin.
+
+While using flexbox, what axis does the following property work on: align-items: center?
+
+The vertical axis.
+
+Explain why git is valuable to a team of developers.
+Lets teams work together and able to save previous copies to check back on.
